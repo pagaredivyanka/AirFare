@@ -1,6 +1,7 @@
 # AirFare Calculator
 **GitHub Link -** https://github.com/pagaredivyanka/AirFare
-## Developed By - Divyanka Pagare
+# Team 
+## Divyanka Pagare
 - **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
 - **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
