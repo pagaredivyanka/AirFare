@@ -3,11 +3,11 @@
 A Java console application to calculate airfare for flights by different airline agencies. This project demonstrates the basics of object-oriented programming in Java, including class definition, object instantiation, and interaction via a simple menu-driven interface.
 
 # Features
-- **Airline Management -**
+- **Airline Management**
   - Define multiple airlines with specific base fares.
-- **Flight Management -**
+- **Flight Management**
   - Define flights with specific airlines, origin, destination, and distance.
-- **Fare Calculation -**
+- **Fare Calculation**
   - Calculate the airfare for a flight based on the distance and the airline's base fare.
  
 # Prerequisites
