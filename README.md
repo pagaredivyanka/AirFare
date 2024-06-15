@@ -1,4 +1,9 @@
 # AirFare Calculator
+**GitHub Link -** https://github.com/pagaredivyanka/AirFare
+# Developed By - Divyanka Pagare
+- **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
+- **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
+- **E-mail:** pagaredivyanka@gmail.com
 # Overview 
 A Java console application to calculate airfare for flights by different airline agencies. This project demonstrates the basics of object-oriented programming in Java, including class definition, object instantiation, and interaction via a simple menu-driven interface.
 
