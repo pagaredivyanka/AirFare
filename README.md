@@ -6,7 +6,7 @@
 - **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
 # Overview 
-A Java console application to calculate airfare for flights by different airline agencies. This project demonstrates the object-oriented programming concept in Java, including  **encapsulation - getter and setter**, **selection statement - switch case** used to make it interactive via a simple menu-driven interface.
+A Java console application to calculate airfare for flights by different airline agencies. This project demonstrates the object-oriented programming concept in Java, including  **encapsulation - getter and setter** methods, **selection statement - switch case** used to make it interactive via a simple menu-driven interface.
 
 # Features
 - **Airline Management**
